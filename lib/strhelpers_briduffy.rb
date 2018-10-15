@@ -1,4 +1,5 @@
 require "strhelpers_briduffy/version"
+require "strhelpers_briduffy/greeting"
 
 module StrhelpersBriduffy
   def self.reversify(str)
